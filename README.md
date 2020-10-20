@@ -23,7 +23,7 @@
 </details>
 
 
-## Git for Team Collaboration
+## Git Collaboration
 
 <details>
   <summary>
