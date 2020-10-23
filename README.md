@@ -2,6 +2,13 @@
 
 ## Git intro
 
+I've been familiar with git for a long time, but very superficially: limiting itself to the basic set of commands, and within the repository for one developer. I've tried branches just to be able to do it. I have long wanted to understand deeper. But with limited time, you have to choose. I am very glad that such an opportunity finally fell out.
+
+Two ideas that interest me as a result:
+
+1. Learn to use the git to monitor progress on my training projects.
+2. Accordingly, highlight small goals in the work so that the history of the commits is clear and understandable.
+
 <details>
   <summary>
     <b>screenshots</b>
@@ -10,14 +17,13 @@
   <img src="./screenshots/git-intro-learngitbranching.png" alt="learngitbranching screenshot">
 </details>
 
-I've been familiar with git for a long time, but very superficially: limiting itself to the basic set of commands, and within the repository for one developer. I've tried branches just to be able to do it. I have long wanted to understand deeper. But with limited time, you have to choose. I am very glad that such an opportunity finally fell out.
-
-Two ideas that interest me as a result:
-1. Learn to use the git to monitor progress on my training projects.
-2. Accordingly, highlight small goals in the work so that the history of the commits is clear and understandable.
 
 
 ## Linux CLI, and HTTP
+
+I have been a happy user of Ubuntu for a long time, so nothing new except that dubious printer stuff :)
+
+As a person who wants to know everything, I certainly studied the topic of HTTP, and now I have repeated it. But without practical use, this knowledge does not linger in my head...
 
 <details>
   <summary>
@@ -34,6 +40,9 @@ Two ideas that interest me as a result:
 
 ## Git Collaboration
 
+Wow, doing the PR turned out to be not at all what I thought. The scheme of working in a local repository with two remote branches (forked origin and upstream) is something new for me. Although, this is logical given what has been learned. Now I can contribute to open source! 
+It remains only to find out who I want to help... 	&#129300;
+
 <details>
   <summary>
     <b>screenshots</b>
@@ -42,6 +51,3 @@ Two ideas that interest me as a result:
   <img src="./screenshots/git-collab-learngitbranching.png" alt="learngitbranching screenshot">
 </details>
 
-<!-- Вот тут пришлось попотеть на вот том сервисе.
-     ПР оказался совсем не тем, что я думал: форк и две удаленные ветки
-     Рад ощущать что теперь я способен контрибютить, осталось только найти куда )) -->
