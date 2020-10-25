@@ -35,8 +35,6 @@ As a person who wants to know everything, I certainly studied the topic of HTTP,
   <img src="./screenshots/linux-4.png" alt="linux quiz 4 screenshot">
 </details>
 
-<!-- Давно на Убунту, ничего нового кроме принтера -->
-
 
 ## Git Collaboration
 
@@ -51,3 +49,16 @@ It remains only to find out who I want to help... 	&#129300;
   <img src="./screenshots/git-collab-learngitbranching.png" alt="learngitbranching screenshot">
 </details>
 
+
+## Intro to HTML and CSS
+
+Basically, all the information was already familiar to me, so the courses were taken in fast forward mode. Except for grids, I'm glad to finally touch them. It looks like a very powerful thing.
+
+<details>
+  <summary>
+    <b>screenshots</b>
+  </summary>
+  <img style="border: 1px solid grey" src="./screenshots/html_css_intro-1.png" alt="udacity screenshot">
+  <img style="border: 1px solid grey" src="./screenshots/html_css_intro-2.png" alt="codeacademy screenshot">
+  <img style="border: 1px solid grey" src="./screenshots/html_css_intro-3.png" alt="codeacademy screenshot">
+</details>
