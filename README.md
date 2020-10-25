@@ -62,3 +62,18 @@ Basically, all the information was already familiar to me, so the courses were t
   <img style="border: 1px solid grey" src="./screenshots/html_css_intro-2.png" alt="codeacademy screenshot">
   <img style="border: 1px solid grey" src="./screenshots/html_css_intro-3.png" alt="codeacademy screenshot">
 </details>
+
+
+## Responsive Web Design
+
+It turned out that until now I have never used the order property in flexbox. Either I didn’t know about it, or I forgot.
+
+Also, it was news to me that there are responsive patterns and they have names: Column Drop, Mostly Fluid, Layout Shifter and Off Canvas. I used only the first of them, which, apparently, corresponds to the level of my development ))
+
+<details>
+  <summary>
+    <b>screenshots</b>
+  </summary>
+  <img style="border: 1px solid grey" src="./screenshots/responsive_web_design-1.png" alt="udacity screenshot">
+  <img src="./screenshots/responsive_web_design-2.png" alt="codeacademy screenshot">
+</details>
