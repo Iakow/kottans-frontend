@@ -91,3 +91,16 @@ I figured out how to flexibly set background images without cluttering **img** i
 It turned out that the border radius cannot be set for the outline. And there are also different hacks, but here I went the simple way - I used rectangular hovers)) But I know where to look if necessary.
 
 Well, it was interesting to play with the styling of the scrollbar.
+
+
+## 6. JavaScript Basics
+
+Ummm ... Nothing to say because everything was familiar. Unless it was interesting to write scripts, sometimes it looks like real tasks.
+
+<details>
+  <summary>
+    <b>screenshots</b>
+  </summary>
+  <img style="border: 1px solid grey" src="./screenshots/js_basics-1.png" alt="udacity screenshot">
+  <img src="./screenshots/js_basics-2.png" alt="codeacademy screenshot">
+</details>
