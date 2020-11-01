@@ -38,7 +38,7 @@ As a person who wants to know everything, I certainly studied the topic of HTTP,
 
 ## Git Collaboration
 
-Wow, doing the PR turned out to be not at all what I thought. The scheme of working in a local repository with two remote branches (forked origin and upstream) is something new for me. Although, this is logical given what has been learned. Now I can contribute to open source! 
+Wow, doing the PR turned out to be not at all what I thought. The scheme of working in a local repository with two remote branches (forked origin and upstream) is something new for me. Although, this is logical given what has been learned. Now I can contribute to open source!
 It remains only to find out who I want to help... 	&#129300;
 
 <details>
@@ -77,3 +77,17 @@ Also, it was news to me that there are responsive patterns and they have names: 
   <img style="border: 1px solid grey" src="./screenshots/responsive_web_design-1.png" alt="udacity screenshot">
   <img src="./screenshots/responsive_web_design-2.png" alt="codeacademy screenshot">
 </details>
+
+## HTML & CSS practice: [Hooli-style Popup](https://github.com/Iakow/hooli-popup)
+
+It was a novelty for me to work without JS - this allowed me to learn a little more about the capabilities of the CSS.
+
+In particular, the checkbox hack - onClick() without programming ))
+
+Until now, I have not paid attention to keyboard accessibility, and have never tried using the keyboard for navigation myself. In the process, I had to study the list of focusable elements in order to guide the user in the right way. It was interesting.
+
+I figured out how to flexibly set background images without cluttering **img** in HTML.
+
+It turned out that the border radius cannot be set for the outline. And there are also different hacks, but here I went the simple way - I used rectangular hovers)) But I know where to look if necessary.
+
+Well, it was interesting to play with the styling of the scrollbar.
