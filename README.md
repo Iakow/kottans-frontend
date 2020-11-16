@@ -1,13 +1,19 @@
-# Kottans-frontend course
+# Front-End course from Kottans
+## Stage 0. Self-Study
 
-## 0. Git intro
+### 0. Git intro
 
-I've been familiar with git for a long time, but very superficially: limiting itself to the basic set of commands, and within the repository for one developer. I've tried branches just to be able to do it. I have long wanted to understand deeper. But with limited time, you have to choose. I am very glad that such an opportunity finally fell out.
+[UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+learngitbranching.js.org
 
-Two ideas that interest me as a result:
 
-1. Learn to use the git to monitor progress on my training projects.
-2. Accordingly, highlight small goals in the work so that the history of the commits is clear and understandable.
+>***Reflections:***g
+>*I've been familiar with git for a long time, but very superficially: limiting itself to the basic set of commands, and within the repository for one developer. I've tried branches just to be able to do it. I have long wanted to understand deeper. But with limited time, you have to choose. I am very glad that such an opportunity finally fell out.*
+>
+>*Two ideas that interest me as a result:*
+>
+>*1. Learn to use the git to monitor progress on my training projects.*
+>*2. Accordingly, highlight small goals in the work so that the history of the commits is clear and understandable.*
 
 <details>
   <summary>
@@ -19,7 +25,7 @@ Two ideas that interest me as a result:
 
 
 
-## 1. Linux CLI, and HTTP
+### 1. Linux CLI, and HTTP
 
 I have been a happy user of Ubuntu for a long time, so nothing new except that dubious printer stuff :)
 
@@ -27,12 +33,36 @@ As a person who wants to know everything, I certainly studied the topic of HTTP,
 
 <details>
   <summary>
-    <b>screenshots</b>
+    <span>screenshots</span>
   </summary>
-  <img src="./screenshots/linux-1.png" alt="linux quiz 1 screenshot">
-  <img src="./screenshots/linux-2.png" alt="linux quiz 2 screenshot">
-  <img src="./screenshots/linux-3.png" alt="linux quiz 3 screenshot">
-  <img src="./screenshots/linux-4.png" alt="linux quiz 4 screenshot">
+
+  <a href="./screenshots/linux-1.png">
+    <img
+      src="./screenshots/linux-1.png"
+      alt="linux quiz 1 screenshot"
+      width="300">
+  </a>
+
+  <a href="./screenshots/linux-2.png">
+    <img
+      src="./screenshots/linux-2.png"
+      alt="linux quiz 2 screenshot"
+      width="300">
+  </a>
+
+  <a href="./screenshots/linux-3.png">
+    <img
+      src="./screenshots/linux-3.png"
+      alt="linux quiz 3 screenshot"
+      width="300">
+  </a>
+
+  <a href="./screenshots/linux-4.png" >
+    <img
+      src="./screenshots/linux-4.png"
+      alt="linux quiz 4 screenshot"
+      width="300">
+  </a>
 </details>
 
 
