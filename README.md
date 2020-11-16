@@ -3,8 +3,8 @@
 
 ### 0. Git intro
 
-[UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-[learngitbranching.js.org](learngitbranching.js.org)
+* [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+* [learngitbranching.js.org](learngitbranching.js.org)
 
 
 >***Reflections:***g
