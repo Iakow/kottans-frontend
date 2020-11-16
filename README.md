@@ -36,28 +36,28 @@ As a person who wants to know everything, I certainly studied the topic of HTTP,
     <span>screenshots</span>
   </summary>
 
-  <a href="./screenshots/linux-1.png">
+  <a href="./screenshots/linux-1.png" target="_blank" rel="noopener noreferrer">
     <img
       src="./screenshots/linux-1.png"
       alt="linux quiz 1 screenshot"
       width="300">
   </a>
 
-  <a href="./screenshots/linux-2.png">
+  <a href="./screenshots/linux-2.png" target="_blank" rel="noopener noreferrer">
     <img
       src="./screenshots/linux-2.png"
       alt="linux quiz 2 screenshot"
       width="300">
   </a>
 
-  <a href="./screenshots/linux-3.png">
+  <a href="./screenshots/linux-3.png" target="_blank" rel="noopener noreferrer">
     <img
       src="./screenshots/linux-3.png"
       alt="linux quiz 3 screenshot"
       width="300">
   </a>
 
-  <a href="./screenshots/linux-4.png" >
+  <a href="./screenshots/linux-4.png" target="_blank" rel="noopener noreferrer">
     <img
       src="./screenshots/linux-4.png"
       alt="linux quiz 4 screenshot"
