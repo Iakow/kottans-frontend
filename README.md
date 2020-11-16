@@ -1,13 +1,16 @@
 # Front-End course from Kottans
 ## Stage 0. Self-Study
 
+<br>
+
 ### 0. Git intro
 
 * [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 * [learngitbranching.js.org](learngitbranching.js.org)
 
+<br>
 
->***Reflections:***g
+>***Reflections:***
 >*I've been familiar with git for a long time, but very superficially: limiting itself to the basic set of commands, and within the repository for one developer. I've tried branches just to be able to do it. I have long wanted to understand deeper. But with limited time, you have to choose. I am very glad that such an opportunity finally fell out.*
 >
 >*Two ideas that interest me as a result:*
@@ -23,7 +26,7 @@
   <img src="./screenshots/git-intro-learngitbranching.png" alt="learngitbranching screenshot">
 </details>
 
-
+<br><br>
 
 ### 1. Linux CLI, and HTTP
 
@@ -36,35 +39,26 @@ As a person who wants to know everything, I certainly studied the topic of HTTP,
     <span>screenshots</span>
   </summary>
 
-  <a href="./screenshots/linux-1.png" target="_blank">
-    <img
-      src="./screenshots/linux-1.png"
-      alt="linux quiz 1 screenshot"
-      width="300">
-  </a>
+  <img
+    src="./screenshots/linux-1.png"
+    alt="linux quiz 1  screenshot"
+    width="300">
 
-  <a href="./screenshots/linux-2.png" target="_blank" >
-    <img
-      src="./screenshots/linux-2.png"
-      alt="linux quiz 2 screenshot"
-      width="300">
-  </a>
-
-  <a href="./screenshots/linux-3.png" target="_blank">
-    <img
-      src="./screenshots/linux-3.png"
-      alt="linux quiz 3 screenshot"
-      width="300">
-  </a>
-
-  <a href="./screenshots/linux-4.png" target="_blank">
-    <img
-      src="./screenshots/linux-4.png"
-      alt="linux quiz 4 screenshot"
-      width="300">
-  </a>
+  <img
+    src="./screenshots/linux-2.png"
+    alt="linux quiz 2 screenshot"
+    width="300">
+  <img
+    src="./screenshots/linux-3.png"
+    alt="linux quiz 3 screenshot"
+    width="300">
+  <img
+    src="./screenshots/linux-4.png"
+    alt="linux quiz 4 screenshot"
+    width="300">
 </details>
 
+<br><br>
 
 ## 2. Git Collaboration
 
@@ -79,6 +73,7 @@ It remains only to find out who I want to help... 	&#129300;
   <img src="./screenshots/git-collab-learngitbranching.png" alt="learngitbranching screenshot">
 </details>
 
+<br><br>
 
 ## 3. Intro to HTML and CSS
 
@@ -93,6 +88,7 @@ Basically, all the information was already familiar to me, so the courses were t
   <img style="border: 1px solid grey" src="./screenshots/html_css_intro-3.png" alt="codeacademy screenshot">
 </details>
 
+<br><br>
 
 ## 4. Responsive Web Design
 
@@ -108,6 +104,8 @@ Also, it was news to me that there are responsive patterns and they have names: 
   <img src="./screenshots/responsive_web_design-2.png" alt="codeacademy screenshot">
 </details>
 
+<br><br>
+
 ## 5. HTML & CSS practice: [Hooli-style Popup](https://github.com/Iakow/hooli-popup)
 
 It was a novelty for me to work without JS - this allowed me to learn a little more about the capabilities of the CSS.
@@ -122,6 +120,7 @@ It turned out that the border radius cannot be set for the outline. And there ar
 
 Well, it was interesting to play with the styling of the scrollbar.
 
+<br><br>
 
 ## 6. JavaScript Basics
 
