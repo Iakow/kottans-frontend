@@ -5,7 +5,7 @@
 ### 1. [Git intro](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
 
 &#9745; [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
-<input type="checkbox" checked disabled> [learngitbranching.js.org](https://learngitbranching.js.org/)
+- [learngitbranching.js.org](https://learngitbranching.js.org/)
 
 <details>
   <summary>
