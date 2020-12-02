@@ -7,7 +7,20 @@
 
 &#9745; [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
 &#9745; [learngitbranching.js.org](https://learngitbranching.js.org/)
+<details>
+  <summary>
+    <small>screenshots</small>
+  </summary>
 
+  <img
+    src="./screenshots/git-intro-udacity.png"
+    alt="udacity screenshot"
+    width="300">
+  <img
+    src="./screenshots/git-intro-learngitbranching.png"
+    alt="learngitbranching screenshot"
+    width="300">
+</details>
 
 <br>
 
@@ -18,19 +31,6 @@
 >*1. Learn to use the git to monitor progress on my training projects.*  
 >*2. Accordingly, highlight small goals in the work so that the history of the commits is clear and understandable.*
 
-<details>
-  <summary>
-    <small>screenshots</small>
-  </summary>
-  <img
-    src="./screenshots/git-intro-udacity.png"
-    alt="udacity screenshot"
-    width="300">
-  <img
-    src="./screenshots/git-intro-learngitbranching.png"
-    alt="learngitbranching screenshot"
-    width="300">
-</details>
 
 <br><br>
 
