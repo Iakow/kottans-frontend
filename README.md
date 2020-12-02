@@ -52,7 +52,6 @@ As a person who wants to know everything, I certainly studied the topic of HTTP,
     src="./screenshots/linux-1.png"
     alt="linux quiz 1  screenshot"
     width="300">
-
   <img
     src="./screenshots/linux-2.png"
     alt="linux quiz 2 screenshot"
