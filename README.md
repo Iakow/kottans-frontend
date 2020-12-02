@@ -1,9 +1,10 @@
 # Front-End course from Kottans
-## Stage 0. Self-Study
+
+## Self-Study stage
 
 <br>
 
-### 0. Git intro
+### 1. Git intro
 
 &#9745; [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
 &#9745; [learngitbranching.js.org](https://learngitbranching.js.org/)
@@ -32,7 +33,7 @@
 
 <br><br>
 
-### 1. Linux CLI, and HTTP
+### 2. Linux CLI, and HTTP
 
 I have been a happy user of Ubuntu for a long time, so nothing new except that dubious printer stuff :)
 
@@ -63,7 +64,7 @@ As a person who wants to know everything, I certainly studied the topic of HTTP,
 
 <br><br>
 
-## 2. Git Collaboration
+### 3. Git Collaboration
 
 Wow, doing the PR turned out to be not at all what I thought. The scheme of working in a local repository with two remote branches (forked origin and upstream) is something new for me. Although, this is logical given what has been learned. Now I can contribute to open source!
 It remains only to find out who I want to help... 	&#129300;
@@ -78,7 +79,7 @@ It remains only to find out who I want to help... 	&#129300;
 
 <br><br>
 
-## 3. Intro to HTML and CSS
+### 4. Intro to HTML and CSS
 
 Basically, all the information was already familiar to me, so the courses were taken in fast forward mode. Except for grids, I'm glad to finally touch them. It looks like a very powerful thing.
 
@@ -93,7 +94,7 @@ Basically, all the information was already familiar to me, so the courses were t
 
 <br><br>
 
-## 4. Responsive Web Design
+### 5. Responsive Web Design
 
 It turned out that until now I have never used the order property in flexbox. Either I didn’t know about it, or I forgot.
 
@@ -109,7 +110,7 @@ Also, it was news to me that there are responsive patterns and they have names: 
 
 <br><br>
 
-## 5. HTML & CSS practice: [Hooli-style Popup](https://github.com/Iakow/hooli-popup)
+### 6. HTML & CSS practice: [Hooli-style Popup](https://github.com/Iakow/hooli-popup)
 
 It was a novelty for me to work without JS - this allowed me to learn a little more about the capabilities of the CSS.
 
@@ -125,7 +126,7 @@ Well, it was interesting to play with the styling of the scrollbar.
 
 <br><br>
 
-## 6. JavaScript Basics
+### 7. Basics
 
 Ummm ... Nothing to say because everything was familiar. Unless it was interesting to write scripts, sometimes it looks like real tasks.
 
