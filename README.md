@@ -6,7 +6,6 @@
 ### 0. Git intro
 
 &#9745; [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-
 &#9745; [learngitbranching.js.org](https://learngitbranching.js.org/)
 
 
