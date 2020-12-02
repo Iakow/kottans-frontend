@@ -2,7 +2,7 @@
 
 ## Self-Study stage
 
-### 1. [Git intro](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
+### 1. Git intro
 
 - [x] [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
 - [x] [learngitbranching.js.org](https://learngitbranching.js.org/)
