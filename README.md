@@ -5,10 +5,9 @@
 
 ### 0. Git intro
 
-* [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-* [learngitbranching.js.org](https://learngitbranching.js.org/)
- [ ]
-[ x ]
+<input type="checkbox" checked disabled> [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+<input type="checkbox" checked> [learngitbranching.js.org](https://learngitbranching.js.org/)
+
 
 <br>
 
