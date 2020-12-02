@@ -20,11 +20,9 @@
     src="./screenshots/git-intro-learngitbranching.png"
     alt="learngitbranching screenshot"
     width="300">
-</details>
+</details>  
 
-<br>
 
-***Reflections:***
 >*I've been familiar with git for a long time, but very superficially: limiting itself to the basic set of commands, and within the repository for one developer. I've tried branches just to be able to do it. I have long wanted to understand deeper. But with limited time, you have to choose. I am very glad that such an opportunity finally fell out.*
 >
 >*Two ideas that interest me as a result:*  
