@@ -2,8 +2,6 @@
 
 ## Self-Study stage
 
-<br>
-
 ### 1. [Git intro](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
 
 &#9745; [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
@@ -32,6 +30,7 @@
 >*2. Accordingly, highlight small goals in the work so that the history of the commits is clear and understandable.*
 
 <br><br>
+
 
 ### 2. [Linux CLI, and HTTP](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
 
@@ -62,74 +61,82 @@
 >
 >*As a person who wants to know everything, I certainly studied the topic of HTTP, and now I have repeated it. But without practical use, this knowledge does not linger in my head...*
 
-
 <br><br>
 
-### 3. Git Collaboration
+
+### 3. [Git Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
+
 <details>
   <summary>
     <small>screenshots</small>
   </summary>
-  <img src="./screenshots/git-collab-udacity.png" alt="udacity screenshot">
-  <img src="./screenshots/git-collab-learngitbranching.png" alt="learngitbranching screenshot">
+  <img 
+    src="./screenshots/git-collab-udacity.png" 
+    alt="udacity screenshot"
+    width="300">
+  <img 
+    src="./screenshots/git-collab-learngitbranching.png" alt="learngitbranching screenshot"
+    width="300">
 </details>
 
->*Wow, doing the PR turned out to be not at all what I thought. The scheme of working in a local repository with two remote branches (forked origin and upstream) is something new for me. Although, this is logical given what has been learned. Now I can contribute to open source!*  
+>*Wow, doing the PR turned out to be not at all what I thought. The scheme of working in a local repository with two remote branches (forked origin and upstream) is something new for me. Although, this is logical given what has been learned. Now I can contribute to open source!*
+>
 >*It remains only to find out who I want to help... 	&#129300;*
-
 
 <br><br>
 
-### 4. Intro to HTML and CSS
 
-Basically, all the information was already familiar to me, so the courses were taken in fast forward mode. Except for grids, I'm glad to finally touch them. It looks like a very powerful thing.
+### 4. [Intro to HTML and CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
 
 <details>
   <summary>
-    <b>screenshots</b>
+    <small>screenshots</small>
   </summary>
   <img style="border: 1px solid grey" src="./screenshots/html_css_intro-1.png" alt="udacity screenshot">
   <img style="border: 1px solid grey" src="./screenshots/html_css_intro-2.png" alt="codeacademy screenshot">
   <img style="border: 1px solid grey" src="./screenshots/html_css_intro-3.png" alt="codeacademy screenshot">
 </details>
 
+>*Basically, all the information was already familiar to me, so the courses were taken in fast forward mode. Except for grids, I'm glad to finally touch them. It looks like a very powerful thing.*
+
 <br><br>
 
-### 5. Responsive Web Design
 
-It turned out that until now I have never used the order property in flexbox. Either I didn’t know about it, or I forgot.
-
-Also, it was news to me that there are responsive patterns and they have names: Column Drop, Mostly Fluid, Layout Shifter and Off Canvas. I used only the first of them, which, apparently, corresponds to the level of my development ))
+### 5. [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
 
 <details>
   <summary>
-    <b>screenshots</b>
+    <small>screenshots</small>
   </summary>
   <img style="border: 1px solid grey" src="./screenshots/responsive_web_design-1.png" alt="udacity screenshot">
   <img src="./screenshots/responsive_web_design-2.png" alt="codeacademy screenshot">
 </details>
 
-<br><br>
+>*It turned out that until now I have never used the order property in flexbox. Either I didn’t know about it, or I forgot.*
+>
+>*Also, it was news to me that there are responsive patterns and they have names: Column Drop, Mostly Fluid, Layout Shifter and Off Canvas. I used only the first of them, which, apparently, corresponds to the level of my development ))*
 
-### 6. HTML & CSS practice: [Hooli-style Popup](https://github.com/Iakow/hooli-popup)
-
-It was a novelty for me to work without JS - this allowed me to learn a little more about the capabilities of the CSS.
-
-In particular, the checkbox hack - onClick() without programming ))
-
-Until now, I have not paid attention to keyboard accessibility, and have never tried using the keyboard for navigation myself. In the process, I had to study the list of focusable elements in order to guide the user in the right way. It was interesting.
-
-I figured out how to flexibly set background images without cluttering **img** in HTML.
-
-It turned out that the border radius cannot be set for the outline. And there are also different hacks, but here I went the simple way - I used rectangular hovers)) But I know where to look if necessary.
-
-Well, it was interesting to play with the styling of the scrollbar.
 
 <br><br>
 
-### 7. Basics
+### 6. [HTML & CSS practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md): [Hooli-style Popup](https://github.com/Iakow/hooli-popup)
 
-Ummm ... Nothing to say because everything was familiar. Unless it was interesting to write scripts, sometimes it looks like real tasks.
+>*It was a novelty for me to work without JS - this allowed me to learn a little more about the capabilities of the CSS.*
+>
+>*In particular, the checkbox hack - onClick() without programming* ))
+>
+>*Until now, I have not paid attention to keyboard accessibility, and have never tried using the keyboard for navigation myself. In the process, I had to study the list of focusable elements in order to guide the user in the right way. It was interesting.*
+>
+>*I figured out how to flexibly set background images without cluttering  `<img>` in HTML.*
+>
+>*It turned out that the border radius cannot be set for the outline. And there are also different hacks, but here I went the simple way - I used rectangular hovers)) But I know where to look if necessary.*
+>
+>*Well, it was interesting to play with the styling of the scrollbar.*
+
+<br><br>
+
+
+### 7. [JS Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
 
 <details>
   <summary>
@@ -138,3 +145,5 @@ Ummm ... Nothing to say because everything was familiar. Unless it was interesti
   <img style="border: 1px solid grey" src="./screenshots/js_basics-1.png" alt="udacity screenshot">
   <img src="./screenshots/js_basics-2.png" alt="codeacademy screenshot">
 </details>
+
+>*Ummm ... Nothing to say because everything was familiar. Unless it was interesting to write scripts, sometimes it looks like real tasks.*
