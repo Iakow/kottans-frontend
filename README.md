@@ -6,7 +6,7 @@
 ### 0. Git intro
 
 * [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-* [learngitbranching.js.org](learngitbranching.js.org)
+* [learngitbranching.js.org](https://learngitbranching.js.org/)
 
 <br>
 
@@ -16,6 +16,7 @@
 >*Two ideas that interest me as a result:*
 >
 >*1. Learn to use the git to monitor progress on my training projects.*
+
 >*2. Accordingly, highlight small goals in the work so that the history of the commits is clear and understandable.*
 
 <details>
