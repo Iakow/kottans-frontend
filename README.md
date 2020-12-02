@@ -8,6 +8,7 @@
 
 &#9745; [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
 &#9745; [learngitbranching.js.org](https://learngitbranching.js.org/)
+
 <details>
   <summary>
     <small>screenshots</small>
@@ -30,14 +31,9 @@
 >*1. Learn to use the git to monitor progress on my training projects.*  
 >*2. Accordingly, highlight small goals in the work so that the history of the commits is clear and understandable.*
 
-
 <br><br>
 
-### 2. Linux CLI, and HTTP
-
-I have been a happy user of Ubuntu for a long time, so nothing new except that dubious printer stuff :)
-
-As a person who wants to know everything, I certainly studied the topic of HTTP, and now I have repeated it. But without practical use, this knowledge does not linger in my head...
+### 2. [Linux CLI, and HTTP](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
 
 <details>
   <summary>
@@ -61,6 +57,11 @@ As a person who wants to know everything, I certainly studied the topic of HTTP,
     alt="linux quiz 4 screenshot"
     width="300">
 </details>
+
+>I have been a happy user of Ubuntu for a long time, so nothing new except that dubious printer stuff :)
+>
+>As a person who wants to know everything, I certainly studied the topic of HTTP, and now I have repeated it. But without practical use, this knowledge does not linger in my head...
+
 
 <br><br>
 
