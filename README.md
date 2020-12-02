@@ -4,10 +4,9 @@
 
 ### 1. [Git intro](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
 
-- [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
-- [learngitbranching.js.org](https://learngitbranching.js.org/)
-
-<details>
+* [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
+* [learngitbranching.js.org](https://learngitbranching.js.org/)
+* <details>
   <summary>
     <small>screenshots</small>
   </summary>
