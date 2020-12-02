@@ -37,7 +37,7 @@
 
 <details>
   <summary>
-    <span>screenshots</span>
+    <small>screenshots</small>
   </summary>
 
   <img
@@ -58,25 +58,25 @@
     width="300">
 </details>
 
->I have been a happy user of Ubuntu for a long time, so nothing new except that dubious printer stuff :)
+>*I have been a happy user of Ubuntu for a long time, so nothing new except that dubious printer stuff :)*
 >
->As a person who wants to know everything, I certainly studied the topic of HTTP, and now I have repeated it. But without practical use, this knowledge does not linger in my head...
+>*As a person who wants to know everything, I certainly studied the topic of HTTP, and now I have repeated it. But without practical use, this knowledge does not linger in my head...*
 
 
 <br><br>
 
 ### 3. Git Collaboration
-
-Wow, doing the PR turned out to be not at all what I thought. The scheme of working in a local repository with two remote branches (forked origin and upstream) is something new for me. Although, this is logical given what has been learned. Now I can contribute to open source!
-It remains only to find out who I want to help... 	&#129300;
-
 <details>
   <summary>
-    <b>screenshots</b>
+    <small>screenshots</small>
   </summary>
   <img src="./screenshots/git-collab-udacity.png" alt="udacity screenshot">
   <img src="./screenshots/git-collab-learngitbranching.png" alt="learngitbranching screenshot">
 </details>
+
+>*Wow, doing the PR turned out to be not at all what I thought. The scheme of working in a local repository with two remote branches (forked origin and upstream) is something new for me. Although, this is logical given what has been learned. Now I can contribute to open source!*  
+>*It remains only to find out who I want to help... 	&#129300;*
+
 
 <br><br>
 
