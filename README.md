@@ -92,9 +92,21 @@
   <summary>
     <small>screenshots</small>
   </summary>
-  <img style="border: 1px solid grey" src="./screenshots/html_css_intro-1.png" alt="udacity screenshot">
-  <img style="border: 1px solid grey" src="./screenshots/html_css_intro-2.png" alt="codeacademy screenshot">
-  <img style="border: 1px solid grey" src="./screenshots/html_css_intro-3.png" alt="codeacademy screenshot">
+  <img 
+    style="border: 1px solid grey" 
+    src="./screenshots/html_css_intro-1.png" 
+    alt="udacity screenshot"
+    width="300">
+  <img 
+    style="border: 1px solid grey" 
+    src="./screenshots/html_css_intro-2.png" 
+    alt="codeacademy screenshot"
+    width="300">
+  <img
+    style="border: 1px solid grey"
+    src="./screenshots/html_css_intro-3.png"
+    alt="codeacademy screenshot"
+    width="300">
 </details>
 
 >*Basically, all the information was already familiar to me, so the courses were taken in fast forward mode. Except for grids, I'm glad to finally touch them. It looks like a very powerful thing.*
@@ -108,8 +120,15 @@
   <summary>
     <small>screenshots</small>
   </summary>
-  <img style="border: 1px solid grey" src="./screenshots/responsive_web_design-1.png" alt="udacity screenshot">
-  <img src="./screenshots/responsive_web_design-2.png" alt="codeacademy screenshot">
+  <img
+    style="border: 1px solid grey" 
+    src="./screenshots/responsive_web_design-1.png"
+    alt="udacity screenshot"
+    width="300">
+  <img
+    src="./screenshots/responsive_web_design-2.png"
+    alt="codeacademy screenshot"
+    width="300">
 </details>
 
 >*It turned out that until now I have never used the order property in flexbox. Either I didn’t know about it, or I forgot.*
@@ -140,10 +159,17 @@
 
 <details>
   <summary>
-    <b>screenshots</b>
+    <small>screenshots</small>
   </summary>
-  <img style="border: 1px solid grey" src="./screenshots/js_basics-1.png" alt="udacity screenshot">
-  <img src="./screenshots/js_basics-2.png" alt="codeacademy screenshot">
+  <img 
+    style="border: 1px solid grey" 
+    src="./screenshots/js_basics-1.png" 
+    alt="udacity screenshot"
+    width="300">
+  <img 
+    src="./screenshots/js_basics-2.png" 
+    alt="codeacademy screenshot"
+    width="300">
 </details>
 
 >*Ummm ... Nothing to say because everything was familiar. Unless it was interesting to write scripts, sometimes it looks like real tasks.*
