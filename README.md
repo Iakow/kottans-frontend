@@ -16,7 +16,6 @@
 >*Two ideas that interest me as a result:*
 >
 >*1. Learn to use the git to monitor progress on my training projects.*
-
 >*2. Accordingly, highlight small goals in the work so that the history of the commits is clear and understandable.*
 
 <details>
