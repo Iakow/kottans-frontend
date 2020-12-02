@@ -20,7 +20,7 @@
 
 <details>
   <summary>
-    screenshots
+    <small>screenshots</small>
   </summary>
   <img
     src="./screenshots/git-intro-udacity.png"
