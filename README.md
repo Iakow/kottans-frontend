@@ -195,7 +195,13 @@
     width="300">
 </details>
 
->*...*
+>*It was new for me to get acquainted with the `Node`, `Element` and `EventTarget` interfaces and how they are connected. IOf course, I have not memorized much, but now I know the sources of information, and in general it has slightly expanded my consciousness.*
+>
+>*It was cool to understand the performance issues when working with DOM: you need to keep in mind the problems associated with reflow and re-paint. In particular, hack with `document fragment` is great for solving such problems.*
+>
+>*And I first learned about `performance.now()`! I played a lot with this, measuring performance with different approaches))*
+>
+>*Overall, at the moment this task has brought me the most pleasure and gave me the feeling that I am getting closer to becoming a developer))*
 
 <br><br>
 
