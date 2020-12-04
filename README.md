@@ -141,7 +141,7 @@
 
 >*It was a novelty for me to work without JS - this allowed me to learn a little more about the capabilities of the CSS.*
 >
->*In particular, the checkbox hack - onClick() without programming* ))
+>*In particular, the checkbox hack - `onClick()` without programming* ))
 >
 >*Until now, I have not paid attention to keyboard accessibility, and have never tried using the keyboard for navigation myself. In the process, I had to study the list of focusable elements in order to guide the user in the right way. It was interesting.*
 >
@@ -172,3 +172,37 @@
 </details>
 
 >*Ummm ... Nothing to say because everything was familiar. Unless it was interesting to write scripts, sometimes it looks like real tasks.*
+
+<br><br>
+
+
+### 8. [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
+- [x] [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)  
+- [x] [Freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+- [x] [Practical task](https://github.com/Iakow/kottans-js-dom)
+<details>
+  <summary>
+    <small>screenshots</small>
+  </summary>
+  <img 
+    style="border: 1px solid grey" 
+    src="./screenshots/DOM-1.png" 
+    alt="udacity screenshot"
+    width="300">
+  <img 
+    src="./screenshots/DOM-2.png" 
+    alt="codeacademy screenshot"
+    width="300">
+</details>
+
+>*...*
+
+<br><br>
+
+
+### 9. [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
+- [x] [My JS tiny world](https://classroom.udacity.com/courses/ud117)
+
+>*...*
+
+<br><br>
