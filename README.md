@@ -207,8 +207,6 @@
 
 
 ### 9. [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
-- [x] [My JS tiny world](https://classroom.udacity.com/courses/ud117)
-
->*...*
+- [x] [My JS tiny world](https://github.com/Iakow/my-tiny-js-world)
 
 <br><br>
