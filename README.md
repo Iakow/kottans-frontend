@@ -231,7 +231,7 @@
     width="300">
 </details>  
   
->*It is difficult to highlight specific things, because here it is more likely not about "I learned how to do it", but about "I began to understand how it works. Overall, аfter 100 laps through this sea of information, and a bunch of experiments with the code, I feel a lot more confident with topics such as scopes, this, closures, and prototypes.*
+>*It is difficult to highlight specific things, because here it is more likely not about "I learned how to do it", but about "I began to understand how it works". Overall, аfter 100 laps through this sea of information, and a bunch of experiments with the code, I feel a lot more confident with topics such as scopes, this, closures, and prototypes.*
 <details>
   <summary>
     <small>more</small>
