@@ -210,3 +210,34 @@
 - [x] [My JS tiny world](https://github.com/Iakow/my-tiny-js-world)
 
 <br><br>
+
+### 10. [Object-Oriented JavaScript ](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
+- [x] [Object Oriented JS](https://classroom.udacity.com/courses/ud015)
+- [x] [codewars 7kyu](https://www.codewars.com/users/Iakow)
+- [x] [Frogger game](https://iakow.github.io/frontend-nanodegree-arcade-game/)
+- [code](https://github.com/kottans/frontend-2021-homeworks/blob/main/submissions/iakow/object-oriented-js/app.js)
+<details>
+  <summary>
+    <small>screenshots</small>
+  </summary>
+  <img 
+    style="border: 1px solid grey" 
+    src="./screenshots/OOP-JS-1.png" 
+    alt="codewars screenshot"
+    width="300">  
+  <img 
+    src="./screenshots/OOP-JS-2.png" 
+    alt="udacity screenshot"
+    width="300">
+</details>  
+  
+>*It is difficult to highlight specific things, because here it is more likely not about "I learned how to do it", but about "I began to understand how it works. Overall, аfter 100 laps through this sea of information, and a bunch of experiments with the code, I feel a lot more confident with topics such as scopes, this, closures, and prototypes.*
+<details>
+  <summary>
+    <small>more</small>
+  </summary>
+
+>*When you pass a method to another object and that object calls it, `this` behaves unexpectedly)) Now I understand why in React code such methods are bound in the constructor: behavior of `this` can be determined by only 4 rules, they should just be [memorized](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch2.md).*
+>
+>*It took me a lot of time to understand that in OOP application, objects are not at all required to represent a strict tree-like hierarchy like components in a React application. That is, OOP objects are not React components at all!!! OMG))*
+</details>
