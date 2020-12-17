@@ -208,6 +208,7 @@
 
 ### 9. [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
 - [x] [My JS tiny world](https://github.com/Iakow/my-tiny-js-world)
+- [code](https://github.com/kottans/frontend-2021-homeworks/blob/main/submissions/iakow/a-tiny-js-work/index.js)
 
 <br><br>
 
@@ -241,3 +242,15 @@
 >
 >*It took me a lot of time to understand that in OOP application, objects are not at all required to represent a strict tree-like hierarchy like components in a React application. That is, OOP objects are not React components at all!!! OMG))*
 </details>
+
+<br><br>
+
+### 11. [OOP exercise (TinyJSWorld2)](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
+- [x] [My JS tiny world](https://iakow.github.io/my-tiny-js-world/)
+- [code](https://github.com/kottans/frontend-2021-homeworks/blob/main/submissions/iakow/OOP-exercise/index.js)
+
+<br><br>
+
+<!-- ### 12. [Memory – Pair Game)](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
+- [ ] [Demo]()
+- [code]( ) -->
