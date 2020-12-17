@@ -251,6 +251,28 @@
 
 <br><br>
 
-<!-- ### 12. [Memory – Pair Game)](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
+### 12. [Memory – Pair Game)](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
 - [ ] [Demo]()
-- [code]( ) -->
+- [code]( )
+
+<details>
+  <summary>
+    <small>What I noted for myself</small>
+  </summary>
+
+> *`QuerySelectorAll()` and `getElementsBuy()` do seemingly the same work, but in reality the results are different: the first returns a [NodeList](https://developer.mozilla.org/en-US/docs/Web/API/NodeList), and the second returns [HTMLCollection](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection). The last one cannot be iterated over `forEach()`, for example.*
+
+>*This is the first time I have used `Map` consciously and finally realized its convenience. You can bind data to an `Element` without using `id` or custom built-in properties.*
+
+>*And custom built-in properties of element, by the way, are erased if you try to pass an element somewhere in the DOM using `InnerHTML`*
+
+>*I got to know Promises better and appreciated the benefits of replacing callbacks with them when working with asynchronous things.*
+
+>*And by the way, what surprised me is that the rendering runs asynchronously.*
+>```
+>document.body.style.backgroundColor = 'red';
+>alert('surprize!'); 
+>```
+
+>*At some point, I noticed that I accidentally created a global variable, forgetting to write `const` in the declaration. This didn't affect the app execution, but when I turned on `strict mode` - I found another one :facepalm: From now on, I will always `use strict`.*
+</details>
