@@ -2,7 +2,7 @@
 
 ## Self-Study stage
 
-### 1. Git intro
+### 1. [Git intro](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
 
 - [x] [UDACITY: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
 - [x] [learngitbranching.js.org](https://learngitbranching.js.org/)
@@ -251,9 +251,11 @@
 
 <br><br>
 
-### 12. [Memory – Pair Game)](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
-- [ ] [Demo]()
-- [code]( )
+### 13. [Memory – Pair Game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
+<!-- - [ ] [Demo]()
+- [code]( ) -->
+- [demo](https://iakow.github.io/memory-pair-game/)
+- [ ] [review](https://github.com/kottans/frontend-2021-homeworks/pull/289)
 
 <details>
   <summary>
@@ -276,3 +278,12 @@
 
 >*At some point, I noticed that I accidentally created a global variable, forgetting to write `const` in the declaration. This didn't affect the app execution, but when I turned on `strict mode` - I found another one :facepalm: From now on, I will always `use strict`.*
 </details>
+
+<br><br>
+
+### 15. [Friends-App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md)
+<!-- - [ ] [Demo]()
+- [code]( ) -->
+
+- [demo](https://iakow.github.io/friends-app/)
+- [ ] [review](https://github.com/kottans/frontend-2021-homeworks/pull/355)
