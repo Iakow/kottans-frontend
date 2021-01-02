@@ -137,7 +137,9 @@
 
 <br><br>
 
-### 6. [HTML & CSS practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md): [Hooli-style Popup](https://github.com/Iakow/hooli-popup)
+### 6. [HTML & CSS practice: Hooli-style Popup](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
+
+- [x] [Project](https://github.com/Iakow/hooli-popup)
 
 >*It was a novelty for me to work without JS - this allowed me to learn a little more about the capabilities of the CSS.*
 >
